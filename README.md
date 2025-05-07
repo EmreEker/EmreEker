@@ -6,7 +6,7 @@
 
 🌱 Currently Learning:Keycloak for Authentication, Advanced Backend Architectures
 
-📚 Books I'm Reading: "Metro 2033" by Dimitry Glukhovsky, "Designing Event-Driven Systems" by Ben Stopford
+📚 Books I'm Reading: "Foundation Series" by Isaac Asimov "Designing Event-Driven Systems" by Ben Stopford
 
 🎯 Goals: Enhance my skills in  software engineering and build scalable, efficient applications.
 
