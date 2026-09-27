@@ -112,22 +112,10 @@ Issuer
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EmreEker&show_icons=true&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=EmreEker&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
-## Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EmreEker&hide_border=true)
 
 ---
 
